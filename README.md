@@ -2,6 +2,7 @@
 Основной код программы, дополнительный код, и др.
 
 Код отсюда:
+
 Часть 1
 http://pikabu.ru/story/kursyi_sozdaniya_kompyuternyikh_igr_na_cc__chast_6__3461017
 
